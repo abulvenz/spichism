@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  },
+  "name": "spichism",
+  "description": "",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "tagl-mithril": "^1.2.2"
+  },
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abulvenz/spichism.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abulvenz/spichism/issues"
+  },
+  "homepage": "https://github.com/abulvenz/spichism#readme"
+}

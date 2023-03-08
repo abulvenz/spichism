@@ -7,7 +7,7 @@
   "version": "1.0.0",
   "main": "main.js",
   "dependencies": {
-    "mathjs": "^11.5.0",
+    "mathjs": "^11.6.0",
     "mithril": "^2.2.2",
     "tagl-mithril": "^1.2.2"
   },

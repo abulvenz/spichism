@@ -1,0 +1,14 @@
+#!/usr/bin/gnuplot -persist
+
+f(t)=(r*cos(o*t)-x)**2+(r*sin(o*t)-y)**2+z**2-v**2*t**2
+GNUTERM = "qt"
+I = {0.0, 1.0}
+VoxelDistance = 0.0
+r = 1
+o = 1
+v = 1
+
+# t = [0:10.0]
+plot f(x)
+
+EOF
